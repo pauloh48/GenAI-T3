@@ -16,7 +16,6 @@
 		{"id":"f6bee062393d226f","type":"text","text":"![[genio.png]]","x":413,"y":195,"width":370,"height":354},
 		{"id":"ba62b09a4f2d0e6b","type":"text","text":"- **De tempo**: respostas vagas ou fora do contexto exigem refazer o prompt, reexecutar o modelo e gastar tempo corrigindo.","x":420,"y":670,"width":525,"height":62},
 		{"id":"90578ab2847bbbc4","type":"text","text":"### Exemplos ruins","x":440,"y":860,"width":218,"height":60},
-		{"id":"c0ed3f87ac064e9a","type":"text","text":"# U2. Engenharia de Prompts","x":-720,"y":-83,"width":351,"height":85},
 		{"id":"788565297d22ecf1","type":"file","file":"GenAI T3/M9 Arquiteturas neurais avançadas para IA generativa para texto/assets/U2/Gênio Da Lâmpada.jpg","x":860,"y":320,"width":399,"height":180},
 		{"id":"56c62b0421553ca4","type":"text","text":"### Como fazer bons prompts","x":1,"y":1324,"width":250,"height":60},
 		{"id":"40146b693fe12e07","type":"text","text":"- **Seja claro e específico**: descreva exatamente o que quer, forneça contexto e exemplos.\n","x":373,"y":1206,"width":539,"height":66},
@@ -60,7 +59,8 @@
 		{"id":"604894b4960686ed","type":"text","text":"**Exemplos práticos**\n- **Exemplo 1 – Resumir um texto longo**\n\t- Passo 1: _“Liste os principais tópicos deste artigo em bullets.”_\n\t- Passo 2: _“Escreva um parágrafo resumido para cada tópico listado.”_\n\t- Passo 3: _“Junte os parágrafos em um resumo final de até 200 palavras.”_","x":4431,"y":2000,"width":638,"height":160},
 		{"id":"163bff82eff380ef","type":"text","text":"      \n- **Exemplo 2 – Responder pergunta complexa com assistente virtual**\n    \n    - Passo 1: _“Identifique os conceitos-chave na pergunta do usuário.”_\n        \n    - Passo 2: _“Pesquise cada conceito e traga explicações curtas.”_\n        \n    - Passo 3: _“Combine os conceitos em uma resposta clara e completa para o usuário.”_","x":5143,"y":2010,"width":638,"height":140},
 		{"id":"0c397f9563fa1f15","type":"text","text":"**Benefícios**\n- **Compreensão mais fácil** → partes pequenas são mais simples de entender e processar.\n- **Mais precisão** → ao focar em uma tarefa de cada vez, a IA reduz erros e “alucinações”.\n- **Maior controle** → o usuário acompanha cada passo, entendendo onde podem surgir problemas.\n- **Reutilização** → prompts criados para uma etapa podem ser aproveitados em outros contextos.","x":4431,"y":2180,"width":638,"height":258},
-		{"id":"4b85bb35e0bbdf79","type":"text","text":"#### 5. Divida o trabalho","x":3997,"y":1894,"width":250,"height":60}
+		{"id":"4b85bb35e0bbdf79","type":"text","text":"#### 5. Divida o trabalho","x":3997,"y":1894,"width":250,"height":60},
+		{"id":"c0ed3f87ac064e9a","type":"text","text":"# U2. Engenharia de Prompts","x":-560,"y":-83,"width":351,"height":85}
 	],
 	"edges":[
 		{"id":"82121bb22aac696a","fromNode":"c0ed3f87ac064e9a","fromSide":"top","toNode":"c8af1a58cd9dafc8","toSide":"left"},
