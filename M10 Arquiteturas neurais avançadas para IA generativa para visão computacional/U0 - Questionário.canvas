@@ -9,7 +9,7 @@
 		{"id":"2454b1ad7c999e75","type":"text","text":"Qual é o seu nível de compreensão sobre os Modelos de Transformação de Domínio?\n![[GenAI T3/M10 Arquiteturas neurais avançadas para IA generativa para visão computacional/assets/U0/q3.png]]","x":628,"y":-384,"width":648,"height":456},
 		{"id":"ee271594ef1192b1","type":"text","text":"Qual é o seu nível de compreensão sobre a Arquitetura Stable Diffusion?\n![[GenAI T3/M10 Arquiteturas neurais avançadas para IA generativa para visão computacional/assets/U0/q6.png]]","x":628,"y":70,"width":648,"height":458},
 		{"id":"7dc362df8f9ac3fa","type":"text","text":"![[cronograma_T3.png]]","x":-1276,"y":-200,"width":449,"height":624},
-		{"id":"4f16e45295cfcac4","type":"text","text":"Qual é o seu nível de compreensão sobre Transferência de Estilo Neural?\n![[q7.png]]","x":1276,"y":68,"width":648,"height":458}
+		{"id":"4f16e45295cfcac4","type":"text","text":"Qual é o seu nível de compreensão sobre Transferência de Estilo Neural?\n![[GenAI T3/M10 Arquiteturas neurais avançadas para IA generativa para visão computacional/assets/U0/q7.png]]","x":1276,"y":68,"width":648,"height":458}
 	],
 	"edges":[]
 }
